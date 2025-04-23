@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "generate": "tsr generate"
+    "generate": "tsr generate",
+    "testing": "tsr --version"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.2.0",
